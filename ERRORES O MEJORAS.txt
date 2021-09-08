@@ -1,0 +1,15 @@
+ERROR: A la hora de la explicacion del proyecto no entendí que era modular, es decir que vas mejorando el código
+que tienes y que no has de ir haciendo distintos ficheros.
+
+SOLUCIÓN: Explicarlo al principio y ir especificando que son mejoras del anterior ya que lo que me pasó al principio
+es que cuando acababa un trozo del código y funionaba, hacia la siguiente especificación como si fuera una nueva parte.
+
+
+ERROR/SOLUCION: RECORDAR QUE SE UTILIZA EL JUNIT 4 Y CONFIGURAR ESE YA QUE LAS NUEVAS VERSIONES NO FUNCIONAN IGUAL.
+
+
+PUNTO DE VISTA: SOBRE LAS SPECIFICATIONS FALTA ALGO DE PREPARACIÓN AUNQUE BUSCANDO POR INTERNET PUEDES ENCONTRAR COMO
+FUNCIONAN SIN NINGÚN PROBLEMA
+
+
+PUNTO DE VISTA: Especificar que EndPoints se van a querer al final del proyecto, ya que yo tube que consultarlo.
